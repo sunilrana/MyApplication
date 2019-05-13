@@ -140,7 +140,7 @@ public class MapActivityNew extends AppCompatActivity implements OnMapReadyCallb
            // mMap.getUiSettings()
 
             init();
-            // hello feature
+            // hello feature hig
 
         }
     }
