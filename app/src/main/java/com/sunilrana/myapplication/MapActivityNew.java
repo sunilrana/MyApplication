@@ -141,6 +141,8 @@ public class MapActivityNew extends AppCompatActivity implements OnMapReadyCallb
 
             init();
             // hello feature higdddgit
+            // Test local commit
+
 
         }
     }
